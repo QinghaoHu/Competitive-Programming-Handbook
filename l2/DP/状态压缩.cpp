@@ -1,3 +1,6 @@
+/**
+状态压缩特指将图/几何问题使用数组处理
+**/
 #include <algorithm>
 #include <iostream>
 #include <cstring>
